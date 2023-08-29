@@ -1,0 +1,270 @@
+Description	Resource	Path	Location	Type
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	lcd.c	/stop_watch	line 213	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 143	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 145	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 151	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 154	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 158	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 160	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 166	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 169	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 173	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 175	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 181	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "const char *"	main.c	/stop_watch	line 192	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	lcd.c	/stop_watch	line 211	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 143	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 144	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 145	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 150	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 151	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 154	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 158	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 159	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 160	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 165	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 166	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 169	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 173	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 174	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 175	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 180	C/C++ Problem
+#169-D argument of type "sint8_t *" is incompatible with parameter of type "char *"	main.c	/stop_watch	line 181	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	main.c	/stop_watch	line 92	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	main.c	/stop_watch	line 86	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	main.c	/stop_watch	line 92	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	systick.c	/stop_watch	line 21	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	systick.c	/stop_watch	line 25	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	systick.c	/stop_watch	line 27	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	systick.h	/stop_watch	line 36	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	lcd.c	/stop_watch	line 159	C/C++ Problem
+#1476-D (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic	lcd.c	/stop_watch	line 161	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	lcd.c	/stop_watch	line 175	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	systick.c	/stop_watch	line 21	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	systick.c	/stop_watch	line 25	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	systick.c	/stop_watch	line 27	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	lcd.c	/stop_watch	line 212	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	main.c	/stop_watch	line 109	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	main.c	/stop_watch	line 110	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	main.c	/stop_watch	line 128	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 1	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 2	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 3	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 4	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 5	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 6	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 7	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 8	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 9	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 10	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 11	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 12	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 13	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 14	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 15	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 16	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 17	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 18	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 19	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 20	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 21	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 22	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 23	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 24	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 25	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 26	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 27	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 28	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 29	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 30	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 31	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 32	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 33	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 34	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 35	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 36	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 37	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 38	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 43	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 44	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 45	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 46	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 47	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 48	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 49	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 50	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 51	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 52	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 53	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 54	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 55	C/C++ Problem
+#1455-D (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments	tm4c123gh6pm.h	/stop_watch	line 56	C/C++ Problem
+#1376-D (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled	std_types.h	/stop_watch	line 32	C/C++ Problem
+#1383-D (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call	main.c	/stop_watch	line 57	C/C++ Problem
+#1390-D (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "buff")	lcd.c	/stop_watch	line 211	C/C++ Problem
+#1390-D (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "hours")	main.c	/stop_watch	line 144	C/C++ Problem
+#1390-D (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "minutes")	main.c	/stop_watch	line 159	C/C++ Problem
+#1390-D (MISRA-C:2004 9.1/R) All automatic variables shall have been assigned a value before being used (variable "seconds")	main.c	/stop_watch	line 174	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	systick.c	/stop_watch	line 21	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 186	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 184	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 171	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 156	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 141	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 129	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 125	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 123	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 120	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 118	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 115	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 113	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 107	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 103	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 101	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 94	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 92	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 88	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 86	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 81	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 37	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 36	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 35	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 32	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	main.c	/stop_watch	line 29	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 191	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 187	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 186	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 184	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 183	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 181	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 180	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 177	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 158	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 138	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 137	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 136	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 135	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 127	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 126	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 125	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 124	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 98	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 97	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 96	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 95	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 87	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 86	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 85	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	lcd.c	/stop_watch	line 84	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 131	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 130	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 129	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 127	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 126	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 125	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 124	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 121	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 120	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 119	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 118	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 102	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 101	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 100	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 98	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 97	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 96	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 95	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 93	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 92	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 91	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 90	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 89	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 87	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 86	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 85	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 84	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 81	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 80	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 79	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 78	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 69	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 68	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 50	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 47	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 46	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 43	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 42	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 41	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 40	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 36	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 34	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 33	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 180	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 174	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 165	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 159	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 150	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 144	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 105	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 95	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 89	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 71	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 70	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 67	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 66	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/stop_watch	line 63	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 222	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 191	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 142	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 141	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 140	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 138	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 137	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 136	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 135	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 133	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	lcd.c	/stop_watch	line 132	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	systick.c	/stop_watch	line 27	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	systick.c	/stop_watch	line 25	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	systick.c	/stop_watch	line 21	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	main.c	/stop_watch	line 92	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	main.c	/stop_watch	line 86	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	main.c	/stop_watch	line 92	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	main.c	/stop_watch	line 86	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 191	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 138	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 137	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 136	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 135	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 127	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 126	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 125	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 124	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 98	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 97	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 96	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 95	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 87	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 86	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 85	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	lcd.c	/stop_watch	line 84	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operation.h	/stop_watch	line 40	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operation.h	/stop_watch	line 37	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operation.h	/stop_watch	line 34	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operation.h	/stop_watch	line 31	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operation.h	/stop_watch	line 28	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operation.h	/stop_watch	line 25	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operation.h	/stop_watch	line 22	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operation.h	/stop_watch	line 19	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "BIT" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 40	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "num" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 31	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "num" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 28	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 40	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 37	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 34	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 31	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 28	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 25	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 22	C/C++ Problem
+#1430-D (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "REG" is used as an operand of # or ##.	bitwise_operation.h	/stop_watch	line 19	C/C++ Problem
+#1437-D (MISRA-C:2004 20.2/R) The names of standard library macros, objects and functions shall not be reused ("time")	main.c	/stop_watch	line 134	C/C++ Problem
