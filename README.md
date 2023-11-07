@@ -2,17 +2,17 @@
 
 Welcome to the Stop Watch Application! Keep track of time with precision using SysTick timer-based intervals.
 
-Features
+## Features
 
 Accurate Timing: The application utilizes the SysTick timer with interrupts to increment the elapsed time every second, providing precise time measurement.
 
 Real-time Display: The HAL LCD driver is utilized to showcase the stopwatch's time in seconds, minutes, and hours on the display.
 
-Architecture Layers.
-
 Pause and Resume: The application incorporates two switches for pausing and resuming the stopwatch functionality.
 
-MCAL Layer (Microcontroller Abstraction Layer)
+## Architecture Layers
+
+### MCAL Layer (Microcontroller Abstraction Layer)
 
 DIO Driver: Enables digital input and output operations, facilitating communication with external devices.
 
@@ -20,15 +20,15 @@ External Interrupts Driver: Manages external interrupt events, ensuring responsi
 
 SysTick Driver: Utilizes the SysTick timer to create precise time intervals, triggering interrupts on each second.
 
-HAL Layer (Hardware Abstraction Layer)
+### HAL Layer (Hardware Abstraction Layer)
 
 LCD Driver: The LCD driver controls the display, allowing the stopwatch's time values to be presented in seconds, minutes, and hours.
 
-Application Layer
+### Application Layer
 
 The Application Layer manages the functionality of the stopwatch. It calculates the time values in seconds, minutes, and hours, coordinating their display on the LCD screen.
 
-Getting Started
+## Getting Started
 
 1-Configure the SysTick driver to operate with one-second intervals for accurate timing.
 
